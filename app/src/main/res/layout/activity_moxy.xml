@@ -22,16 +22,8 @@
     <TextView
         android:id="@+id/tv_textOutput"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
+        android:layout_height="match_parent"
         android:layout_margin="@dimen/base_margins"
         android:background="@android:color/white"
         android:elevation="@dimen/base_margins" />
-
-    <Button
-        android:id="@+id/btn_openMoxy"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/open_moxy"
-        android:layout_margin="@dimen/base_margins"/>
 </LinearLayout>
