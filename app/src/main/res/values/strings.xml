@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVP_Application</string>
+    <string name="button">Add text</string>
+    <string name="open_moxy">Open Moxy</string>
 </resources>
