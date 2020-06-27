@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVP_Application</string>
+    <string name="button">Add text</string>
 </resources>
